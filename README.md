@@ -1,5 +1,4 @@
-# MDP  by [Giovanni Gomez](mailto://ggomez@eafit.edu.co) 
-
+# AI for Developers by [Giovanni Gomez](mailto://ggomez@eafit.edu.co) 
 
 AI Developers <br> <br>
 To be presented, should use Markdown Presentation (MDP) <br>
