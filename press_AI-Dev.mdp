@@ -1,0 +1,241 @@
+%title:     GEN_AI @ Desarrollo de Software
+%author: Giovanni Gomez (ggomez@eafit.edu.co)
+%date: 2023-05-11
+
+
+-> # DISRUPCION EN EL DESARROLLO DE SOFWARE CON AI <-
+
+
+
+
+_______________________________________________________
+<    ESTAMOS USANDO *Markdown Presentation v 1.05*    >
+< Consideré traer Fichas Bibliográficas: Preferí MDP>
+<    "Bello es funcional y armonioso" (Aristóteles) >
+\-----------------------------------------------------
+\       \   ^__^
+\        \  (oo)\_______
+\          (__)\       )\/
+\              ||----w |
+\              ||     ||
+
+
+<br>
+
+En mi defensa, esta será una conversación *divertida*
+
+
+
+---
+
+# Estructura de la Conversación
+
+<br>
+* *Desmitificando la AI: Muchos Buzzwords*
+<br>
+* *De qué se trata la AI para Desarrolladores*
+<br>
+* *La Ingeniería de Software Iterativa: _Roger Pressman_ revolcándose en su tumba*
+<br>
+* *Los Modelos de Despliegue*
+<br>
+* *Prompts, Devs y Drones: Volando con IA*
+<br>
+* *Continuous Business Model: AI impactando la productividad*
+<br>
+* *Algunas ideas de apoyo*
+
+---
+
+# Desmitificando la AI: Muchos Buzzwords
+
+<br>
+     * Esa entidad Invisible
+<br>
+     * Culpable o responsable
+<br>
+     * Entendamos los Bzz: ML,DL, LLM, Prompt
+<br>
+* *Aprendizaje profundo (Deep Learning)*
+<br>
+* *Redes neuronales convolucionales (CNN)*
+<br>
+* *Procesamiento de lenguaje natural (NLP)*
+<br>
+* *Aprendizaje automático (Machine Learning)*
+<br>
+* *Aprendizaje supervisado*
+<br>
+* *Robótica autónoma*
+<br>
+* *Prompts*
+<br>
+* *Learning Context*
+<br>
+
+---
+
+# De qué se trata la AI para Desarrolladores (1)
+<br>
+     * Evolución de los Lenguajes
+<br>
+	* Piedra, Ensamblador, Estructuras, Objetos, MSs
+<br>
+	* Z80/H11/, Pascal, Java, NodeJS, GenAI
+<br>
+	* LCNC, Microservicios, Reactive Methods
+<br>
+     * Codificar o Programar
+<br>
+	* La teoría del Copy Paste
+<br>
+	* Lexis, Sintaxis, Semantica
+<br>
+	* ¿Para qué entender 100% una sintaxis?
+<br>
+     * Resolviendo desde los datos: DataProgramming
+<br>
+	* Ciclos infinitos vs Correlacionamiento 
+
+---
+
+# De qué se trata la AI para Desarrolladores (2)
+
+<br>
+* Desarrollo
+  * *Conocimiento de programación*
+  * *Aprendizaje automático y técnicas de IA*
+  * *Uso de librerías y frameworks*
+  * *Despliegue de modelos*
+<br>
+* Herramientas / Automatización 
+  * *Las nubes tienen soluciones que proliferan*
+  * *Workflows públicos / Datasets y Models: Ver ejemplo*
+  * *Análisis de Datos*
+<br>
+* Calidad
+  * *Precisión y confiabilidad de los datos*
+  * *Consistencia de datos*
+  * *Monitoreo continuo*
+  * Resiliencia & Seguridad: /dev/null para Developers
+
+---
+
+# La Ingeniería de Software Iterativa
+
+<br>
+* Modelos o Métodos
+  * *Si no suma, que no reste: Unificación de lenguajes*
+  * *Orden y documentación*
+  * *¿El Bázar o la Catedral? (MADIS)*
+<br>
+* DevOps: Iteración en la Ingeniería
+  * *Itere, Itere, Itere, Itere: No importa que se equivoque*
+  * *La iteración no es velocidad, es precisión*
+  * *Gobierno: Responsabilidad, Procesos,Practicas*
+  * *Nuevas Prácticas como SRE, SME_D, CX*
+<br>
+* Arquitecturas funcionales: Evolutivas e Integradas
+  * *Mejores Prácticas y referencias*
+  * *Encapsulamiento del servicio*
+  * *Los matachitos ahora ayudan más: Una servilleta*
+
+---   
+
+# Los Modelos de Despliegue
+
+<br>
+* Platform engineering
+  * *Google: Deployment Eng Services*
+  * *CI/CD, con sentido de entendimiento*
+  * *Patrones de despliegue*
+  * *IaC / Ansible / "Softwarizar el Hardware"*
+<br>
+* Teoría de Capacidad
+  * *Performance, Availability, Management*
+  * *De nuevo Contexto sobre consumo de servicios (P/C)*
+  * *Operaciones abstraidas de control*
+
+---
+
+# Prompts, Devs y Drones: Volando con IA
+
+<br>
+* Me sabe a Prompt todo
+  * *Ingeniería de Prompt*
+  * *Entender el contexto*
+  * *Correlacionarlo*
+  * *Decisiones: RTDM*
+<br>
+* La Mayeútica del Infinito*
+  * *Preguntar o repetir*
+  * *Mejorar sobre la repercusión del correlacionamiento*
+  * *CDC:Cloud Data Confusion Axiomas demostrados más de una vez*
+<br>
+* Producir, encapsular y reusar
+  * *IP, CopyRigth, Sentido de respeto*
+  * *Aprender siempre de lo que se hace, compartir*
+  * *Organizaciones sensibles con la IP*
+
+---
+
+# Continuous Business Model: AI impactando la productividad
+
+<br>
+* Justificación Estratégica
+  * *¿Qué hace mi organización?*
+  * *¿Qué aporto YO desde mi rol por esa visión organizacional?*
+  * *¿Cómo aporto yo?*
+  * *Matriz de Prioridad: Urgente, Importante* 
+  * *Impacto vs Complejidad - Productividad*
+
+<br>
+* Justificación Técnica
+  * *Acá es donde más cómodos nos sentimos
+  * *Para esto nos contrataron*
+  * *Donde menos dudas tienen nuestros líderes*
+  * *Conservar, Reemplazar, Migrar, Rearquitectar.
+  
+
+<br>
+* Justificación Financiera
+  * *Cuantificar todo*
+  * *Proyectar*
+  * *Justificar sobre el negocio*
+
+---
+
+# Algunas ideas de apoyo
+
+<br>
+* Presentaciones AI
+  * *https://tome.app
+  * *https://gamma.app
+* Relational Map Mind & AI Workspace unified
+  * *http://www.taskade.com
+* Generador de Imagenes
+  * *https://invideo.io*
+  * *https://artguru.ai*
+* Generador de Videos
+  * *https://invideo.io*
+* Code / Review / Doc / Reverse Eng:
+  * *https://zzzcode.ai*
+* Modelos Fuentes de AI
+  * *https://huggingface.co*
+
+---
+
+-> ## Últimas Palabras <-
+
+
+-Espero que te haya gustado esta conversación *Sin pretensión alguna*.
+
+-Si quieres que profundicemos realmente en algún tópico, puedes contactarme
+
+	          -Giovanni Gómez:  ggomez@eafit.edu.co,   3146782129
+
+
+# ¡¡¡Gracias!!!
+<br>
+
+
